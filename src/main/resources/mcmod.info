@@ -1,0 +1,16 @@
+[
+{
+  "modid": "ghostintheshellmod",
+  "name": "Ghost In The Shell Mod",
+  "description": "Modded yo",
+  "version": "0.0.1",
+  "mcversion": "1.7.10",
+  "url": "N/A",
+  "updateUrl": "N/a",
+  "authorList": ["Brumock","Rohzek"],
+  "credits": "Those Forge Guys",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": ["forge-1.7.10-10.13.4.1448"]
+}
+]

@@ -1,0 +1,9 @@
+item.stunKnife.name=Stun Knife
+
+item.ghostHelmet.name=Ghost Helmet
+item.ghostChest.name=Ghost Chestplate
+item.ghostLegs.name=Ghost Legs
+item.ghostBoots.name=Ghost Boots
+
+itemGroup.toolsTab=Ghost Tools
+itemGroup.armorTab=Ghost Armors
